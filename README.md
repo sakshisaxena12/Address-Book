@@ -1,2 +1,3 @@
-# AddressBook
-This is an PhoneBook based on java and mysql.
+# Address-Book
+Contact Managing application
+Tech-stack used: Java, MySQL(DB)
